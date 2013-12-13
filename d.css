@@ -1,6 +1,8 @@
 /*
 @import url("//fonts.googleapis.com/css?family=Almendra Display");
 */
-.block5 { font-family: 'Almendra Display'; }
 @import url("//fonts.googleapis.com/css?family=Ruge Boogie");
+.block5 { font-family: 'Almendra Display'; }
 .block6 { font-family: 'Ruge Boogie'; }
+@import url("//fonts.googleapis.com/css?family=Akronim");
+.block7 { font-family: 'Akronim'; }
