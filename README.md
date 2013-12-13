@@ -7,7 +7,7 @@ Steps to reproduce:
 1. `https://github.com/yeputons/meteor-issue-662.git`.
 2. `cd meteor-issue-662`
 3. `meteor`
-4. Open `http://localhost:3000` and ensure that four 'Fancy' blocks have fancy font,
+4. Open `http://localhost:3000` and ensure that five 'Fancy' blocks have fancy font,
    and two 'Standard' blocks have standard font
 5. `meteor --production`
 5. Open `http://localhost:3000`, behavior differs.
